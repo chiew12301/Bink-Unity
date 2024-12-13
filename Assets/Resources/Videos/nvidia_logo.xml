@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<subtitles>
+	<subtitle start="1000" end="3000">
+		<text><![CDATA[<b>Bink</b> video test]]></text>
+	</subtitle>
+	<subtitle start="3100" end="5000">
+		<text><![CDATA[NVidia logo with subtitles]]></text>
+	</subtitle>
+</subtitles>
